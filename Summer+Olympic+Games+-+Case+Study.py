@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[12]:
-
-
 #Datasource: https://www.theguardian.com/sport/datablog/2012/jun/25/olympic-medal-winner-list-data
 
 #importing pandas package
@@ -167,7 +161,3 @@ usa_medals_by_year = usa_medals_by_year.unstack(level='Medal')
 # Create an area plot of usa_medals_by_year
 usa_medals_by_year.plot.area()
 plt.show()
-
-
-
-
