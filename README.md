@@ -11,7 +11,5 @@ In Jupyter Notebooks.
 1.0 - Dataset source(Summer Olympics):
 https://www.theguardian.com/sport/datablog/2012/jun/25/olympic-medal-winner-list-data
 
-What are the topics covered in this study:
-a. Pandas
-b. matplotlib 
-c. manipulating dataframes with pandas
+1.1 - Air Traffic Landings Dataset:
+Data gov is the datasource.
